@@ -1,5 +1,10 @@
 # Bubble MCP (D1DX Fork)
 
+[![Author](https://img.shields.io/badge/Author-Daniel_Rudaev-000000?style=flat)](https://github.com/daniel-rudaev)
+[![Studio](https://img.shields.io/badge/Studio-D1DX-000000?style=flat)](https://d1dx.com)
+[![Bubble.io](https://img.shields.io/badge/Bubble.io-MCP_Server-0040F0?style=flat&logo=bubble&logoColor=white)](https://bubble.io)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](./LICENSE)
+
 A Model Context Protocol (MCP) server that enables AI assistants to interact with Bubble.io applications through the Data API.
 
 **Forked from [dorianglz/bubble_mcp](https://github.com/dorianglz/bubble_mcp)** (originally [nocoderoi/bubble_mcp](https://github.com/nocoderoi/bubble_mcp)).
@@ -103,7 +108,7 @@ npm run build
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT License — Copyright (c) 2026 Daniel Rudaev @ D1DX
 
 ## Credits
 
